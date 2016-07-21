@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/title_vertical_margin"
+    android:layout_gravity="center"
+    android:background="@color/title_color"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/icon_top_back"
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:layout_centerVertical="true"
+        android:layout_gravity="left|center_vertical"
+        android:background="@drawable/topbar_lostfind"
+        android:gravity="center_vertical" />
+
+    <TextView
+        android:id="@+id/tv_appmanager_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"
+        android:gravity="fill"
+        android:text="软件管理"
+        android:textColor="#ffffff"
+        android:textSize="24sp" />
+
+</LinearLayout>

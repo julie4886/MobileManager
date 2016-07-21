@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_string_array">
+        <item>手机防盗</item>
+        <item>通讯记录</item>
+        <item>软件管理</item>
+        <item>进程控制</item>
+        <item>流量统计</item>
+        <item>工具箱</item>
+    </string-array>
+    <array name="home_icon_array">
+        <item>@mipmap/home_safe</item>
+        <item>@mipmap/home_callmsgsafe</item>
+        <item>@mipmap/home_apps</item>
+        <item>@mipmap/home_taskmanager</item>
+        <item>@mipmap/home_netmanager</item>
+        <item>@mipmap/home_tools</item>
+    </array>
+
+    <string-array name="operation_array">
+        <item>启动应用程序</item>
+        <item>卸载</item>
+        <item>分享</item>
+        <item>详细信息</item>
+    </string-array>
+
+    <string-array name="tool_strings">
+        <item>手机杀毒</item>
+        <item>缓存清理</item>
+        <item>高级工具</item>
+        <item>设置中心</item>
+    </string-array>
+    <array name="tool_icon_array">
+        <item>@mipmap/home_trojan</item>
+        <item>@mipmap/home_apps</item>
+        <item>@mipmap/home_settings</item>
+        <item>@mipmap/home_tools</item>
+    </array>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">手机管家</string>
+    <string name="splash_copyright">Copyright 2015 MobileManager All Rights Reserved</string>
+    <string name="splash_slogan">Go through the every bit of life</string>
+    <string name="splash_version">V 1.0.0</string>
+    <string name="title_tool_manager">工具箱</string>
+</resources>
